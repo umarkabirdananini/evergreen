@@ -9,7 +9,7 @@
         "secondaryColor": "#228555",
         "successColor": "#00B15C",
         "infoColor": "#88f0be",
-        "warningColor": "#852222",
+        "warningColor": "#228555",
         "dangerColor": "#00b15c",
         "mainFont": "Muli",
         "display1Font": "Nunito",
